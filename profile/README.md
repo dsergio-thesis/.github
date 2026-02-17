@@ -24,8 +24,8 @@ datasets.
 
 | **Dataset** | **Description** | **Platform** | **Link** |
 |:---|:---|:---|:---|
-| Multi-branch Model | The multi-branch ensemble model | Hugging Face | [View Dataset](https://huggingface.co/datasets/placeholder) |
-| LSST Photometry / HST SFR | LSST FITS-based dataset | Kaggle | [View Dataset](https://kaggle.com/datasets/placeholder) |
+| Multi-branch Model | The multi-branch ensemble model. | Hugging Face | [View Dataset](https://huggingface.co/datasets/placeholder) |
+| LSST Photometry / HST SFR | LSST FITS-based dataset. This dataset is covered in detail in [this](https://example.com) paper. | Kaggle | [View Dataset](https://kaggle.com/datasets/placeholder) |
 
 ## Repositories
 
