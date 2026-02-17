@@ -1,6 +1,7 @@
 ---
-title: "**Machine Learning in Astronomy**"
 ---
+
+# Machine Learning in Astronomy
 
 Advancing astronomical discovery through scalable machine learning,
 reproducible research, and open scientific collaboration.
@@ -10,7 +11,7 @@ modern machine learning techniques to large-scale astronomical survey
 data, including imaging, catalogs, and cross-matched multi-survey
 datasets.
 
-# Papers & Presentations
+## Papers & Presentations
 
 | **Title** | **Venue** | **Year** | **Links** |
 |:---|:---|:---|:---|
@@ -19,7 +20,7 @@ datasets.
 | TBD | Workshop Placeholder | 2025 | Paper · Poster |
 | TBD | 2025 | arXiv · Code |  |
 
-# Repositories
+## Repositories
 
 | **Repository** | **Description** | **Status** |
 |:---|:---|:---|
@@ -27,7 +28,7 @@ datasets.
 | repo-2 | CNN/Transformer models for galaxy morphology | Active |
 | repo-3 | Multi-survey catalog cross-matching utilities | Experimental |
 
-# Contributions
+## Contributions
 
 We welcome contributions from researchers, students, and collaborators
 interested in:
@@ -45,7 +46,7 @@ interested in:
 Please see individual repositories for contribution guidelines and
 development standards.
 
-# Acknowledgements
+## Acknowledgements
 
 This work builds upon data and infrastructure from major astronomical
 surveys and open-source scientific ecosystems. We gratefully
