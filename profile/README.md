@@ -55,3 +55,6 @@ acknowledge:
 - The open-source Python scientific computing community
 
 - Eastern Washington University collaborating researchers and students
+
+- Special thanks to Dr. Chris Cain for advising and supporting this
+  research
