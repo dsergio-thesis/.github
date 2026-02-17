@@ -44,8 +44,8 @@ This work builds upon data and infrastructure from major astronomical
 surveys and open-source scientific ecosystems. We gratefully
 acknowledge:
 
-- Survey teams and data providers
+- The LSST Survey teams and data providers
 
 - The open-source Python scientific computing community
 
-- Collaborating researchers and students
+- Eastern Washington University collaborating researchers and students
