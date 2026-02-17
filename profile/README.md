@@ -39,6 +39,7 @@ datasets.
 | **Repository** | **Description** | **Status** |
 |:---|:---|:---|
 | [notebooks](https://github.com/dsergio-thesis/notebooks) | Example notebooks | Active |
+| [docs](https://github.com/dsergio-thesis/docs) | Documentation | Active |
 | pipelines | Constructing massive datasets at scale. This repository uses the Rubin Science Platform (RSP) and the LSST Stack. | Active |
 | models | PyTorch Machine Learning Models | Active |
 | astroos-web-app | Web interface for visualizations | Active |
@@ -73,5 +74,5 @@ acknowledge:
 
 - Eastern Washington University collaborating researchers and students
 
-- Special thanks to Dr. Chris Cain for advising and supporting this
-  research
+- Special thanks to Dr. Chris Cain and the rest of the EWU CS faculty
+  for advising and supporting this research
