@@ -12,10 +12,8 @@ datasets.
 
 | **Title** | **Venue** | **Year** | **Links** |
 |:---|:---|:---|:---|
-| A literature review of supervised and unsupervised machine learning approaches for classification of extended extragalactic objects in astronomical survey data | Eastern Washington University Research Methods | 2025 | TBD |
-| TBD | Conference Placeholder | 2026 | Paper · Talk |
-| TBD | Workshop Placeholder | 2025 | Paper · Poster |
-| TBD | 2025 | arXiv · Code |  |
+| A literature review of supervised and unsupervised machine learning approaches for classification of extended extragalactic objects in astronomical survey data | Eastern Washington University Research Methods | 2025 | <https://github.com/dsergio-thesis/.github/blob/main/papers/Literature_Review.pdf> |
+| Identifying galaxies, quasars, and stars with machine learning: A new catalogue of classifications for 111 million SDSS sources without spectra | Journal Astronomy and Astrophysics | 2020 | <https://github.com/dsergio-thesis/.github/blob/main/presentations/Presentation_Clarke2020.pdf> |
 
 ## Repositories
 
