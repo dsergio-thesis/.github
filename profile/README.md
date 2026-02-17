@@ -32,6 +32,9 @@ datasets.
 | **Repository** | **Description** | **Status** |
 |:---|:---|:---|
 | [notebooks](https://github.com/dsergio-thesis/notebooks) | Example notebooks | Active |
+| pipelines | Constructing massive datasets at scale. | Active |
+| models | PyTorch Machine Learning Models | Active |
+| astroos-web-app | Web interface for visualizations | Active |
 
 ## Contributions
 
