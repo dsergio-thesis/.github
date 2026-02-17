@@ -26,7 +26,7 @@ datasets.
 
 | **Title** | **Description** | **Platform** | **Size (samples)** | **Link** |
 |:---|:---|:---|:---|:---|
-| LSST Photometry / HST SFR | LSST FITS-based dataset. This dataset is covered in detail [here](https://github.com/dsergio-thesis/.github/wiki/Datasets). | Kaggle | 1118 | [Example LSST/HST Labeled Dataset](https://www.kaggle.com/datasets/dsergio/lsst-images-photometry-hst-sfr-labels-1118-samples) |
+| LSST Photometry / HST SFR | LSST FITS-based dataset. This dataset is covered in detail [here](https://github.com/dsergio-thesis/docs/blob/main/Datasets.md). | Kaggle | 1118 | [Example LSST/HST Labeled Dataset](https://www.kaggle.com/datasets/dsergio/lsst-images-photometry-hst-sfr-labels-1118-samples) |
 
 ## Models
 
