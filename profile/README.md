@@ -19,9 +19,7 @@ datasets.
 
 | **Repository** | **Description** | **Status** |
 |:---|:---|:---|
-| repo-1 | Data ingestion, cutout generation, and preprocessing workflows | Active |
-| repo-2 | CNN/Transformer models for galaxy morphology | Active |
-| repo-3 | Multi-survey catalog cross-matching utilities | Experimental |
+| [notebooks](https://github.com/dsergio-thesis/notebooks) | Example notebooks | Active |
 
 ## Contributions
 
