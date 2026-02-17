@@ -1,3 +1,9 @@
+<div class="center">
+
+<img src="EWU.png" style="width:25.0%" alt="image" />
+
+</div>
+
 # Machine Learning in Astronomy
 
 A study of machine learning applications in sky surveys, reproducible
