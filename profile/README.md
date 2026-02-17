@@ -22,12 +22,25 @@ datasets.
 | Classification of Extended Extragalactic Objects in LSST Survey Data using Supervised Machine Learning | Eastern Washington University | 2026 |  |
 | A literature review of supervised and unsupervised machine learning approaches for classification of extended extragalactic objects in astronomical survey data | Eastern Washington University Research Methods | 2025 | [Paper](https://github.com/dsergio-thesis/.github/blob/main/papers/Literature_Review.pdf) |
 
-## Datasets & Models
+## Datasets
 
-| **Title** | **Description** | **Platform** | **Link** |
-|:---|:---|:---|:---|
-| Multi-branch Model | The multi-branch ensemble model. | Hugging Face |  |
-| LSST Photometry / HST SFR | LSST FITS-based dataset. This dataset is covered in detail [here](https://github.com/dsergio-thesis/.github/wiki/Datasets). | Kaggle | [Example LSST/HST Labeled Dataset](https://www.kaggle.com/datasets/dsergio/lsst-images-photometry-hst-sfr-labels-1118-samples) |
+<div class="longtable">
+
+\|p4cm\|p5cm\|p2cm\|p3cm\| **Title** & **Description** & **Platform** &
+**Size (samples)** **Link**  
+LSST Photometry / HST SFR & LSST FITS-based dataset. This dataset is
+covered in detail
+[here](https://github.com/dsergio-thesis/.github/wiki/Datasets). &
+Kaggle & 1118 & [Example LSST/HST Labeled
+Dataset](https://www.kaggle.com/datasets/dsergio/lsst-images-photometry-hst-sfr-labels-1118-samples)  
+
+</div>
+
+## Models
+
+| **Title**          | **Description**                  | **Platform** | **Link** |
+|:-------------------|:---------------------------------|:-------------|:---------|
+| Multi-branch Model | The multi-branch ensemble model. | Hugging Face |          |
 
 ## Repositories
 
