@@ -1,10 +1,7 @@
----
----
-
 # Machine Learning in Astronomy
 
-Advancing astronomical discovery through scalable machine learning,
-reproducible research, and open scientific collaboration.
+A study of machine learning applications in sky surveys, reproducible
+research, and open scientific collaboration.
 
 This organization develops methods and infrastructure for applying
 modern machine learning techniques to large-scale astronomical survey
@@ -15,7 +12,7 @@ datasets.
 
 | **Title** | **Venue** | **Year** | **Links** |
 |:---|:---|:---|:---|
-| A literature review of supervised and unsupervised machine learning approaches for classification of extended extragalactic objects in astronomical survey data | Eastern Washington University Research Methods | 2026 | TBD |
+| A literature review of supervised and unsupervised machine learning approaches for classification of extended extragalactic objects in astronomical survey data | Eastern Washington University Research Methods | 2025 | TBD |
 | TBD | Conference Placeholder | 2026 | Paper · Talk |
 | TBD | Workshop Placeholder | 2025 | Paper · Poster |
 | TBD | 2025 | arXiv · Code |  |
