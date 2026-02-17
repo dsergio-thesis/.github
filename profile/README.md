@@ -24,15 +24,15 @@ datasets.
 
 | **Dataset** | **Description** | **Platform** | **Link** |
 |:---|:---|:---|:---|
-| Dataset 1 | Description | Hugging Face | [View Dataset](https://huggingface.co/datasets/placeholder) |
-| Dataset 2 | Description | Kaggle | [View Dataset](https://kaggle.com/datasets/placeholder) |
+| Multi-branch Model | The multi-branch ensemble model | Hugging Face | [View Dataset](https://huggingface.co/datasets/placeholder) |
+| LSST Photometry / HST SFR | LSST FITS-based dataset | Kaggle | [View Dataset](https://kaggle.com/datasets/placeholder) |
 
 ## Repositories
 
 | **Repository** | **Description** | **Status** |
 |:---|:---|:---|
 | [notebooks](https://github.com/dsergio-thesis/notebooks) | Example notebooks | Active |
-| pipelines | Constructing massive datasets at scale. | Active |
+| pipelines | Constructing massive datasets at scale | Active |
 | models | PyTorch Machine Learning Models | Active |
 | astroos-web-app | Web interface for visualizations | Active |
 
