@@ -70,7 +70,10 @@ acknowledge:
 
 - The LSST Survey teams and data providers
 
-- The open-source Python scientific computing community
+- This work is based on observations taken by the 3D-HST Treasury
+  Program (GO 12177 and 12328) with the NASA/ESA HST, which is operated
+  by the Association of Universities for Research in Astronomy, Inc.,
+  under NASA contract NAS5-26555.
 
 - Eastern Washington University collaborating researchers and students
 
