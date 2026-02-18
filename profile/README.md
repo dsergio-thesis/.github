@@ -44,24 +44,6 @@ datasets.
 | models | PyTorch Machine Learning Models | Active |
 | astroos-web-app | Web interface for visualizations | Active |
 
-## Contributions
-
-We welcome contributions from researchers, students, and collaborators
-interested in:
-
-- Machine learning for astronomical imaging
-
-- Survey-scale data engineering
-
-- Cross-survey validation
-
-- Reproducible scientific workflows
-
-- Open scientific software
-
-Please see individual repositories for contribution guidelines and
-development standards.
-
 ## Acknowledgements
 
 This work builds upon data and infrastructure from major astronomical
